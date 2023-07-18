@@ -1,0 +1,12 @@
+2023-07-18 18:02:08:28 - [32minfo[39m : [32mAplicação rodando port: 8000[39m
+2023-07-18 18:05:56:556 - [32minfo[39m : [32mconectado ao banco de dados[39m
+2023-07-18 18:05:56:556 - [32minfo[39m : [32mAplicação rodando port: 8000[39m
+2023-07-18 18:08:25:825 - [32minfo[39m : [32mconectado ao banco de dados[39m
+2023-07-18 18:08:25:825 - [32minfo[39m : [32mAplicação rodando port: 8000[39m
+2023-07-18 18:08:34:834 - [32minfo[39m : [32mconectado ao banco de dados[39m
+2023-07-18 18:08:34:834 - [32minfo[39m : [32mAplicação rodando port: 8000[39m
+2023-07-18 18:08:56:856 - [31merror[39m : [31mNão foi posivel conectar![39m
+2023-07-18 18:08:56:856 - [31merror[39m : [31merror Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.eeeyod1mf.mongodb.net[39m
+2023-07-18 18:08:56:856 - [32minfo[39m : [32mAplicação rodando port: 8000[39m
+2023-07-18 18:10:23:1023 - [32minfo[39m : [32mconectado ao banco de dados[39m
+2023-07-18 18:10:23:1023 - [32minfo[39m : [32mAplicação rodando port: 8000[39m

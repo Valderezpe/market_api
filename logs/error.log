@@ -1,0 +1,2 @@
+2023-07-18 18:08:56:856 - [31merror[39m : [31mNão foi posivel conectar![39m
+2023-07-18 18:08:56:856 - [31merror[39m : [31merror Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.eeeyod1mf.mongodb.net[39m
