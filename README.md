@@ -6,3 +6,5 @@ Express, dotEnv, Config, Express-Validator, MongoDbCloud, Morgan, Winston, TypeS
 # Usando winston, tratamento de erros.
 
 ![error](https://github.com/Valderezpe/market_api/assets/48490726/9d224411-4579-4ed3-93eb-225d74019372)
+# Log de Error
+![log_error](https://github.com/Valderezpe/market_api/assets/48490726/b8bb0efd-223f-4cee-9b52-ec3a781b73bd)
