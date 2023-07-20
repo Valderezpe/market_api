@@ -12,3 +12,19 @@ export async function createLivro(req: Request, res: Response ){
         
     }
 }
+
+export async function  findLivroById(req:Request, res: Response){
+    try {
+        const id = req.params.id
+        const livro = await livroModel.findById(id)
+
+        if(!livro){
+            return res.status(404).json({error:"Livro não cadastrado."})
+        }
+        return res.status(200).json(livro);
+
+    } catch (e: any) {
+        Logger.error(`Erro no sistema: ${e.message}`)
+        
+    }
+}
