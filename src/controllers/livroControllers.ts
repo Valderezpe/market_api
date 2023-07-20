@@ -28,3 +28,14 @@ export async function  findLivroById(req:Request, res: Response){
         
     }
 }
+
+export async function getAllLivros(req: Request, res: Response){
+
+    try {
+        const livros = await livroModel.find()
+        return res.status(200).json(livros);
+    }catch (e: any) {
+        Logger.error(`Erro no sistema: ${e.message}`)
+        
+    }
+}
