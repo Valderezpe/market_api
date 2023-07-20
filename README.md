@@ -8,3 +8,7 @@ Express, dotEnv, Config, Express-Validator, MongoDbCloud, Morgan, Winston, TypeS
 ![error](https://github.com/Valderezpe/market_api/assets/48490726/9d224411-4579-4ed3-93eb-225d74019372)
 # Log de Error
 ![log_error](https://github.com/Valderezpe/market_api/assets/48490726/b8bb0efd-223f-4cee-9b52-ec3a781b73bd)
+# Postman
+![cad_inserir](https://github.com/Valderezpe/market_api/assets/48490726/29c2320c-d215-439b-b4cb-727be237193d)
+# MongoDb
+![cad_db](https://github.com/Valderezpe/market_api/assets/48490726/84e23cf9-52ab-4d12-86af-da9a6101f375)
